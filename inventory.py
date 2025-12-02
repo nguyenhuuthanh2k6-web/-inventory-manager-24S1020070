@@ -6,3 +6,4 @@ def add_product(name, price, quantity):
     }
     products.append(product)
     print("✔ Đã thêm sản phẩm vào kho!")
+elif choice == "1":
